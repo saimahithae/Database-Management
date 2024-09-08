@@ -3,11 +3,6 @@
 
 # Music Player Application
 
-## Project Report
-
-### ETIKALA SAI MAHITHA
-
----
 
 ### Introduction
 
